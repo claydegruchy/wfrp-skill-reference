@@ -4,4 +4,4 @@ A simple tool to allow easy look up and cross reference skills, abilities and ta
 ## Running locally
 - clone this
 - `npm i --save`
-- `npm start` (starts browsify/watchify, launches page)
+- `npm start` (starts `browsify` and `reload`e)

@@ -14,7 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "isotope-layout": "^3.0.6",
-    "materialize-css": "^1.0.0-rc.2",
     "tippy.js": "^5.1.2"
   }
 }

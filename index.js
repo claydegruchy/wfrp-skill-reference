@@ -2,11 +2,6 @@ window.addEventListener("load", e => {
 
 
     var Isotope = require('isotope-layout')
-    // var M = require('materialize-css')
-
-
-
-
 
     var attributes = document.getElementById('attributes')
     var basicSkills = document.getElementById('basicSkills')

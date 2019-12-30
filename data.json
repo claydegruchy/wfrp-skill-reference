@@ -1,0 +1,1121 @@
+{
+    "attributes": [
+    {
+        "title": "Weapon Skill (WS)",
+        "description": "",
+        "tags": "attribute tag-WS"
+    },
+    {
+        "title": "Ballistic Skill (BS)",
+        "description": "",
+        "tags": "attribute tag-BS"
+    },
+    {
+        "title": "Strength (S)",
+        "description": "",
+        "tags": "attribute tag-S"
+    },
+    {
+        "title": "Toughness (T)",
+        "description": "",
+        "tags": "attribute tag-T"
+    },
+    {
+        "title": "Initiative (I)",
+        "description": "",
+        "tags": "attribute tag-I"
+    },
+    {
+        "title": "Agility (Ag)",
+        "description": "",
+        "tags": "attribute tag-Ag"
+    },
+    {
+        "title": "Dexterity (Dex)",
+        "description": "",
+        "tags": "attribute tag-Dex"
+    },
+    {
+        "title": "Intelligence (Int)",
+        "description": "",
+        "tags": "attribute tag-Int"
+    },
+    {
+        "title": "Willpower (WP)",
+        "description": "",
+        "tags": "attribute tag-WP"
+    },
+    {
+        "title": "Fellowship (Fel)",
+        "description": "",
+        "tags": "attribute tag-Fel"
+    }],
+    "basicSkills": [
+    {
+        "title": "Art (Grouped)",
+        "description": "Create works of Art in your chosen medium.",
+        "tags": "skill basic tag-Dex"
+    },
+    {
+        "title": "Athletics",
+        "description": "Impacts on your movement abilities in combat.",
+        "tags": "skill basic tag-Ag"
+    },
+    {
+        "title": "Bribery",
+        "description": "Will tell you if a target may be bribed and allow you to guess a target number.",
+        "tags": "skill basic tag-Fel"
+    },
+    {
+        "title": "Charm",
+        "description": "Opposed Charm/Cool to influence.",
+        "tags": "skill basic tag-Fel"
+    },
+    {
+        "title": "Charm Animal",
+        "description": "Influence an animal.",
+        "tags": "skill basic tag-WP"
+    },
+    {
+        "title": "Climb",
+        "description": "How easy to scale surfaces.",
+        "tags": "skill basic tag-S"
+    },
+    {
+        "title": "Cool",
+        "description": "Resist psychology and charm etc.",
+        "tags": "skill basic tag-WP"
+    },
+    {
+        "title": "Consume Alcohol",
+        "description": "Ability to resist drunkenness.",
+        "tags": "skill basic tag-T"
+    },
+    {
+        "title": "Dodge",
+        "description": "Ability to avoid blows.",
+        "tags": "skill basic tag-Ag"
+    },
+    {
+        "title": "Drive",
+        "description": "Ability to guide vehicles.",
+        "tags": "skill basic tag-Ag"
+    },
+    {
+        "title": "Endurance",
+        "description": "Withstand hardship.",
+        "tags": "skill basic tag-T"
+    },
+    {
+        "title": "Entertain (Grouped)",
+        "description": "Act/sing etc.",
+        "tags": "skill basic tag-Fel"
+    },
+    {
+        "title": "Gamble",
+        "description": "Measure the likelihood of a bet paying off.",
+        "tags": "skill basic tag-Int"
+    },
+    {
+        "title": "Gossip",
+        "description": "Learn interesting information.",
+        "tags": "skill basic tag-Fel"
+    },
+    {
+        "title": "Haggle",
+        "description": "Opposed test to reduce price.",
+        "tags": "skill basic tag-Fel"
+    },
+    {
+        "title": "Intimidate",
+        "description": "Bully your opponent.",
+        "tags": "skill basic tag-S"
+    },
+    {
+        "title": "Intuition",
+        "description": "Suss if something is wrong or give you an advantage in combat.",
+        "tags": "skill basic tag-I"
+    },
+    {
+        "title": "Leadership",
+        "description": "Issue orders or bolster psychology tests.",
+        "tags": "skill basic tag-Fel"
+    },
+    {
+        "title": "Melee Advanced, (Grouped)",
+        "description": "Represents training in weapons.",
+        "tags": "skill basic tag-WS"
+    },
+    {
+        "title": "Navigation",
+        "description": "Find your way around.",
+        "tags": "skill basic tag-I"
+    },
+    {
+        "title": "Outdoor Survival",
+        "description": "Forage, build shelters, fish etc.",
+        "tags": "skill basic tag-Int"
+    },
+    {
+        "title": "Perception",
+        "description": "Ability to spot things/oppose stealth.",
+        "tags": "skill basic tag-I"
+    },
+    {
+        "title": "Ride (Grouped)",
+        "description": "How skilled at riding animals.",
+        "tags": "skill basic tag-Ag"
+    },
+    {
+        "title": "Row",
+        "description": "How effective at rowing in dangerous situations.",
+        "tags": "skill basic tag-S"
+    },
+    {
+        "title": "Stealth (Grouped)",
+        "description": "Concealment vs opposed perception.",
+        "tags": "skill basic tag-Ag"
+    }],
+    "advancedSkills": [
+    {
+        "title": "Animal Care",
+        "description": "Tend animals if they become sick or wounded.",
+        "tags": "skill advanced tag-Int"
+    },
+    {
+        "title": "Animal Training (Grouped)",
+        "description": "Train/intimidate animals.",
+        "tags": "skill advanced tag-Int"
+    },
+    {
+        "title": "Channelling (Grouped)",
+        "description": "Ability to control the winds of magic.",
+        "tags": "skill advanced tag-WP"
+    },
+    {
+        "title": "Evaluate",
+        "description": "Determine the value of objects.",
+        "tags": "skill advanced tag-Int"
+    },
+    {
+        "title": "Heal",
+        "description": "Heal disease, infection, wound pg 123.",
+        "tags": "skill advanced tag-Int"
+    },
+    {
+        "title": "Language (Grouped)",
+        "description": "Speak the tongue. Language(Magick) is used to cast spells.",
+        "tags": "skill advanced tag-Int"
+    },
+    {
+        "title": "Lore (Grouped)",
+        "description": "formally taught in that area, allowing you to recall facts.",
+        "tags": "skill advanced tag-Int"
+    },
+    {
+        "title": "Perform (Grouped)",
+        "description": "Acrobatics, dancing etc.",
+        "tags": "skill advanced tag-Ag"
+    },
+    {
+        "title": "Pick lock",
+        "description": "Breaking into locks.",
+        "tags": "skill advanced tag-Dex"
+    },
+    {
+        "title": "Play (Grouped)",
+        "description": "Playing an instrument.",
+        "tags": "skill advanced tag-Dex"
+    },
+    {
+        "title": "Pray",
+        "description": "Used to pray to a deity with blessings.",
+        "tags": "skill advanced tag-Fel"
+    },
+    {
+        "title": "Ranged (Grouped)",
+        "description": "Applies to using ranged weapons.",
+        "tags": "skill advanced tag-BS"
+    },
+    {
+        "title": "Research",
+        "description": "Pulling information from libraries, scrolls, etc.",
+        "tags": "skill advanced tag-Int"
+    },
+    {
+        "title": "Sail (Grouped)",
+        "description": "Manoeuvring with sails.",
+        "tags": "skill advanced tag-Ag"
+    },
+    {
+        "title": "Secret Signs (Grouped)",
+        "description": "How to use special markings or signs in a group.",
+        "tags": "skill advanced tag-Int"
+    },
+    {
+        "title": "Set Trap",
+        "description": "Set and disarm traps",
+        "tags": "skill advanced tag-Dex"
+    },
+    {
+        "title": "Sleight of Hand",
+        "description": "Picking pockets etc",
+        "tags": "skill advanced tag-Dex"
+    },
+    {
+        "title": "Swim",
+        "description": "How well you can swim without drowning.",
+        "tags": "skill advanced tag-S"
+    },
+    {
+        "title": "Track",
+        "description": "Ability to follow trails and signs left by others.",
+        "tags": "skill advanced tag-I"
+    },
+    {
+        "title": "Trade (Grouped)",
+        "description": "Earn money with your service",
+        "tags": "skill advanced tag-Dex"
+    }],
+    "talents": [
+    {
+        "title": "Accurate Shot",
+        "description": "+1 dmg on all ranged weapons.\nMax selections: BS Bonus",
+        "tags": "talent tag-BS"
+    },
+    {
+        "title": "Acute Sense",
+        "description": "Perception; Choose 1 sense. Perception test using sense to spot imperceptible detail.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Aethyric Attunement",
+        "description": "Channeling; No miscast if double rolled on successful channel test.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Alley Cat",
+        "description": "Stealth (Urban); Stealth (Urban) reverse dice of any failed test to check success.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Ambidextrous",
+        "description": "Off hand -10. (0 if taken twice).\nMax selections: 2",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Animal Affinity",
+        "description": "Charm Animal; All Bestial Trait creatures calm in your presence.\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Argumentative",
+        "description": "Charm (debating); Choose either rolled SL or number rolled onunits die.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Arcane Magic (Lore)",
+        "description": "Know 1 of the 8 Arcane Lores of magic.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Artistic",
+        "description": "Trade (Artist); Produce precise sketches. Add Trade (Artist) to any career.\nMax selections: Dex Bonus",
+        "tags": "talent tag-Dex"
+    },
+    {
+        "title": "Attractive",
+        "description": "Charm (to attracted); Choose either rolled SL or number rolled onunits die.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Battle Rage",
+        "description": "Melee (Frenzied); You can end your Frenzy with successful Cool Test at end of round.\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Beneath Notice",
+        "description": "Stealth (in plain sight); Higher status tier ignore you / don't get advantage in combat with you.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Beat Blade",
+        "description": "Melee (fencing); Before attack, perform Melee(fencing) test. Opponent\n1 Advantage (extra per SL).\nMax selections: WS Bonus",
+        "tags": "talent tag-WS"
+    },
+    {
+        "title": "Berserk Charge",
+        "description": "Melee; + 1 damage on charge per times taken.\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Blather",
+        "description": "Charm (to blather); Opposed Blather/ intelligence to giveopponent stunned condition.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Bless",
+        "description": "You can empower prayers.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Bookish",
+        "description": "Research; Reverse dice of any failed test to check success.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Break and Enter",
+        "description": "Melee (vs inanimate); +1dmg vs objects per times taken.\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Briber",
+        "description": "Bribery; Reduce base cost of bribe by 10%.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Cardsharp",
+        "description": "Gamble / Sleight of Hand; Use either rolled SL or units die num.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Careful Strike",
+        "description": "Modify hit loc. +/- 10 per times taken.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Carouser",
+        "description": "Consume alcohol; Reverse dice of failed Consume Alcohol Test to score Success.\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Catfall",
+        "description": "Athletics (on falling); Reduce fall by 1 yard + 1 per SL for damage\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Cat Tongued",
+        "description": "Charm (on lying); Listeners do not oppose on intuition.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Chaos Magic (Lore)",
+        "description": "Learn chaos magic spells!\nMax selections: 0",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Combat Aware",
+        "description": "Perception (Melee); Challenging Perception Test to ignore surprise.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Combat Master",
+        "description": "Each time taken, count as +1 person for outnumbered.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Combat Reflexes",
+        "description": "Initiative counts as 10 for combat.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Commanding Presence",
+        "description": "Leadership; Lower status cannot resist leadership with opposed willpower.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Concot",
+        "description": "1/2 time taken to use Trade(apothecary).\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Contortionist",
+        "description": "When using contort; Squeeze and bend through unlikely gaps.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Cool Headed",
+        "description": "Permanent +5 to starting Willpower.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Crack the whip",
+        "description": "Drive / Ride; Fleeing/running animal +1 Movement with whip.\nMax selections: Dex Bonus",
+        "tags": "talent tag-Dex"
+    },
+    {
+        "title": "Craftsman (Trade)",
+        "description": "Trade; Add trade skill or -5xp cost to career\nMax selections: Dex Bonus",
+        "tags": "talent tag-Dex"
+    },
+    {
+        "title": "Criminal",
+        "description": "Take extra money as income. Because of your obvious criminal nature, others consider you lower Status than them unless they also have the Criminal Talent, where Status is compared as normal — perhaps you have gang tattoos, look shifty, or are just rough around the edges, it’s your choice. Because of this, local law enforcers are always suspicious of you and suspect your motivations, which only gets worse the more times you have this Talent, with the exact implications determined by the GM. Lawbreakers without the Criminal Talent earn significantly less coin but are not obviously the sort to be breaking the law, so maintain their Status. With GM consent, you may spend XP to remove levels of the Criminal Talent for the same XP it cost to buy.\nMax selections: 0",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Deadeye Shot",
+        "description": "Don't reverse die for location, pick.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Dealmaker",
+        "description": "Haggle Reduce or increase price 10%.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Detect Artefact",
+        "description": "Intuition test determines if item is magical.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Diceman",
+        "description": "Gamble / Sleight of Hand; Use either rolled SL or number on units die for success.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Dirty Fighting",
+        "description": "Melee (Brawling); +1 dmg for melee(Brawling) for each level.\nMax selections: WS Bonus",
+        "tags": "talent tag-WS"
+    },
+    {
+        "title": "Disarm",
+        "description": "Melee (while disarming); Use action for opposed melee, opponent loses held weapon.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Distract",
+        "description": "Athletics (while distracting); Use move to opposed Athletics/cool. Opponent cannot gain advantage til next round.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Doomed",
+        "description": "If character dies in this manner, 1/2 xp goes to next one.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Drilled",
+        "description": "Melee besides ally When standing next to Ally with drilled and lose Advantage, keep 1.\nMax selections: WS Bonus",
+        "tags": "talent tag-WS"
+    },
+    {
+        "title": "Dual Wielder",
+        "description": "Melee Attack with both weapons\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Embezzle",
+        "description": "Embezzling Opposed intelligence test against employer to skim money.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Enclosed Fighter",
+        "description": "Dodge Ignore melee penalties in enclosed spaces.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Etiquette",
+        "description": "Charm/ gossip Blend into chosen group\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Fast Hands",
+        "description": "Sleight of hand/ fist No passive perception test against sleight of hand skill.\nMax selections: Dex Bonus",
+        "tags": "talent tag-Dex"
+    },
+    {
+        "title": "Fast Shot",
+        "description": "Ranged (reloading); If loaded, fire outside of normal initiative order.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Fearless",
+        "description": "Cool; With average cool test, ignore psychology against specific enemy.\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Feint",
+        "description": "Fencing (Feinting); Feint as action, opposed melee test, attack before next round cannot be opposed.\nMax selections: WS Bonus",
+        "tags": "talent tag-WS"
+    },
+    {
+        "title": "Field Dressing",
+        "description": "Heal; You may reverse dice results if it results in success.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Fisherman",
+        "description": "Fishing; Find enough fish to feed your party.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Flagellant",
+        "description": "Resisting ruinous powers Pray number of wounds equal to level in flagellant. Frenzy immediately without testing.\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Flee",
+        "description": "Athletics (fleeing); Movement +1 when fleeing\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Fleet Footed",
+        "description": "+1 to Movement Attribute\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Frenzy",
+        "description": "You can Frenzy\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Frightening",
+        "description": "Fear rating of +1 per times taken\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Furious Assault",
+        "description": "Melee (on extra attacks); Spend advantage or move to make extra attack.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Gregarious",
+        "description": "Gossip; Reverse dice if allows a success\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Gunner",
+        "description": "Add SL to gunner level in extended reload\nMax selections: Dex Bonus",
+        "tags": "talent tag-Dex"
+    },
+    {
+        "title": "Hardy",
+        "description": "Add TB to wounds\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Hatred",
+        "description": "Willpower Hatred for chosen group\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Holy Hatred",
+        "description": "+1dmg with miracles per level\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Holy Rage",
+        "description": "Pray when frenzied Can invoke blessings and miracles when frenzied\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Holy Visions",
+        "description": "Intuition Intuition test to receive visions\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Huffer",
+        "description": "Lore on rivers Easier to traverse dangerous rivers\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Hunter's Eye",
+        "description": "Trail Test Hunt down enough game to feed your group\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Impassioned Zeal",
+        "description": "Charm Double Fel to determine public influenced by your speech.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Implacable",
+        "description": "Ignore Wound loss from bleeding\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "In-Fighter",
+        "description": "Infighting No penalties for fighting against opponent with longer weapon. +10 to hit opponent in infighting.\nMax selections: Dex Bonus",
+        "tags": "talent tag-Dex"
+    },
+    {
+        "title": "Inspiring",
+        "description": "Leadership Increase amount of people influenced in war.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Invoke Divine Lore",
+        "description": "Perform miracles for 1 god.\nMax selections: 0",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Instinctive Diction",
+        "description": "Lenguage (Magick); No miscast rolling double on sucessfull test.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Iron Jaw",
+        "description": "Endurance Challenging endurance test to resist Stunned condition\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Iron Will",
+        "description": "Cool Vs Intimidate; Intimidate skill does not cause you Fear.\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Jump up",
+        "description": "Athletics (Jumping); Challenging agility test to regain feet when Prone.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Kingpin",
+        "description": "Ignore status loss of Criminal Talent\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Lightning reflexes",
+        "description": "Permanent +5 to starting Agility\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Lip Reading",
+        "description": "Perception Perception test to understand what is said\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Linguistics",
+        "description": "Language; Language exposed to counts as basic instead of advanced with successful intelligence check.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Luck",
+        "description": "Fortune max == Fate max + Luck level\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Magic Resistance",
+        "description": "Must Oppose any spell with Willpower, may never learn magic\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Magical Sense",
+        "description": "Intuition detect wizards Average intuition check when encounter spellcaster\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Magnum Opus",
+        "description": "Create a high value piece of work.\nMax selections: 0",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Marksman",
+        "description": "Permanent + 5 to BS\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Master of Disguise",
+        "description": "Entertain (Acting); Expert at disguising yourself\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Master Orator",
+        "description": "SL bonus equal to Master Orator Level to charm in public speaking\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Master Tradesman",
+        "description": "Reduce required SL of extended test of trade skill by talent level\nMax selections: Dex Bonus",
+        "tags": "talent tag-Dex"
+    },
+    {
+        "title": "Menacing",
+        "description": "When using Intimidate, gain SL bonus == Menacing levels\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Mimic",
+        "description": "Entertain (Acting); Replicate any accent with an initiative test\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Nimble Fingered",
+        "description": "Permanent +5 to starting dex\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Night Vision",
+        "description": "Perception (in low light); See clearly for 20y per Night vision level\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Noble Blood",
+        "description": "Any influenced by status Considered higher status than everyone else unless they have Noble Blood Talent\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Nose for Trouble",
+        "description": "Test to spot troublemakers; Intuition test to spot those seeking to cause trouble. Opposed if hiding\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Numismatics",
+        "description": "Evaluate worth of coins Judge value of coins without test and can spot forged coins easily\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Old Salt",
+        "description": "Sail Ignore negative modifiers at sailing tests.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Orientation",
+        "description": "Navigation You automatically know which way is north\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Panhandle",
+        "description": "Charm(begging) Charm test to be every half hour instead of full hour\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Perfect Pitch",
+        "description": "Entertain/ language You can replicate notes perfectly and add performer(sing) to your career\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Petty Magic",
+        "description": "You may cast a number of petty magics\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Pharmacist",
+        "description": "Trade (Apothecary) Reverse any failed Apothecary tests if it means it will succeed\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Pilot",
+        "description": "Reverse test to navigate any dangerous waters if it will succeed\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Public Speaker",
+        "description": "Influence a larger number of people when publicly speaking\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Pure Soul",
+        "description": "Gain extra Corruption Points equal to Pure Soul level before taking a corruption test.\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Rapid Reload",
+        "description": "Add SL equal to Rapid Reload level to any test to reload.\nMax selections: Dex Bonus",
+        "tags": "talent tag-Dex"
+    },
+    {
+        "title": "Reaction Strike",
+        "description": "Initiative tests When charged, may attempt a Challenging Initiative test to gain immediate free attack.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Read/Write",
+        "description": "You can read/write all of the languages you can speak.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Relentless",
+        "description": "When using advantage to disengage, you may keep advantage equal to Relentless level.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Resolute",
+        "description": "Add level of Resolute to Strength bonus on Charge.\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Resistance(Threat)",
+        "description": "Tests to resist threat You automatically pass the first test to resist specified threat.\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Reversal",
+        "description": "Melee defending IF you win opposed test, you may take all opponents advantage instead of gaining +1.\nMax selections: WS Bonus",
+        "tags": "talent tag-WS"
+    },
+    {
+        "title": "Riposte",
+        "description": "Melee defending If weapon has fast quality, you may cause damage when defending against attacks == to riposte level\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Robust",
+        "description": "Reduce all incoming damage by extra +1, but still suffer minimum of 1 wound.\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Rough Rider",
+        "description": "Ride(horse) in combat You can direct your mount to take an action, not just a move.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Rover",
+        "description": "Stealth in rural environment; By standers do not get passive perception to spot stealth in rural environment.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Savvy",
+        "description": "Permanent +5 bonus to starting intelligence.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Savant (Lore)",
+        "description": "Lore (chosen Lore) You automatically know a correct number of pieces of information about the relevant issue without Lore test.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Scale Sheer surface",
+        "description": "Climb Ignore climb test penalties to climb sheer surfaces.\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Schemer",
+        "description": "Intelligence tests GM will provide you with observations about current situation based on SL.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Sea Legs",
+        "description": "Tests to resist sea sickness; Ignore penalties to tests to ignore sea sickness.\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Seasoned Traveller",
+        "description": "Lore local Add lore Local to current career.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Secret Identity",
+        "description": "Entertain Acting You may use social status of disguised career.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Second Sight",
+        "description": "Detect winds of magic You now have the sight.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Shadow",
+        "description": "Any skill shadowing Use shadowing rules without doing combined test. Use perception or stealth.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Sharp",
+        "description": "Gain a permanent +5 to starting initiative.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Sharpshooter",
+        "description": "Ignore size penalties to ranged tests.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Shieldsman",
+        "description": "Parry test with shield When using Melee(Parry) with shield, you gain advantage equal to this talent if you lose.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Sixth Sense",
+        "description": "Intuition You get a strange feeling when you are in danger. You may ignore surprise on Intuition Test.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Slayer",
+        "description": "On dmg SB is increased to opponent's TB if lower.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Small",
+        "description": "You are small.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Sniper",
+        "description": "Ranged No penalties for long range, 1/2 penalties for extreme range.\nMax selections: 4",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Speed reader",
+        "description": "Language Research and language Read and understand number of pages == SL + speed reader level.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Sprinter",
+        "description": "Athletics (running); Movement counts as 1 higher when running.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Strider (terrain)",
+        "description": "Athletics (to cross terrain); You ignore movement penalties in chosen terrain.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Step Aside",
+        "description": "Dodge tests If you use Dodge to defend and win opposed test, you may move up to 2 yards without free attack penalty.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Strike Mighty Blow",
+        "description": "Add Strike Mighty Blow level to Dmg.\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Strike to Stun",
+        "description": "Melee (to stun tests); Ignore called shot penalty to use head hit location with weapon with pummel quality.\nMax selections: WS Bonus",
+        "tags": "talent tag-WS"
+    },
+    {
+        "title": "Stone Soup",
+        "description": "Endurance to resist hunger; 1/2 food required to avoid penalties, test for starvation every 3 days.\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Strong Back",
+        "description": "Row and swim; Add levels in Strong Back to Opposed strength tests and carry additional encumbrance.\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Strong Legs",
+        "description": "Add Strong legs level to SL in Athletics tests in leaping.\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Strong Swimmer",
+        "description": "Swim; Add Strong Swimmer level to TB for holding breath.\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Strong Minded",
+        "description": "Add Strong Minded level to maximum resolve pool.\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Stout Hearted",
+        "description": "Cool Tests to remove broken May attempt cool test at the end of each of your turns as well as at the end of the round.\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Sturdy",
+        "description": "Strength test when lifting; Increase Encumbrance points by sturdy *2.\nMax selections: S Bonus",
+        "tags": "talent tag-S"
+    },
+    {
+        "title": "Suave",
+        "description": "Permanent +5 to starting Fellowship.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Suffuse with Ulgu",
+        "description": "Sthealth (Any); Can use Channelling (Ulgu) instead of Stealth skill.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Super Numerate",
+        "description": "Evaluate, Gamble; You may use a simple calculator to represent what your PC is capable of mentally thinking.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Supportive",
+        "description": "Social test to influence superior Use either SL or units rolled to influence superior.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Sure Shot",
+        "description": "You may ignore armour points == Sure shot level.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Surgery",
+        "description": "Heal (outside combat); Treat any critical wound marked as needing surgery. Extended Challenging Heal test to resolve internal healing issues.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Tenacious",
+        "description": "Endurance; Double the length of time needed to perform successful Endurance tests.\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Tinker",
+        "description": "Trade to repair broken items All non magical trade skills count as basic when repairing broken items.\nMax selections: T Bonus",
+        "tags": "talent tag-T"
+    },
+    {
+        "title": "Tower of Memories",
+        "description": "Perfectly recall a sequence of facts as long as your intelligence without having to make a test.\nMax selections: Int Bonus",
+        "tags": "talent tag-Int"
+    },
+    {
+        "title": "Trapper",
+        "description": "Set Trap Perception to spot traps/ set traps; Can make perception tests automatically without telling the GM of your intention.\nMax selections: 0",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Trick Riding",
+        "description": "Dodge (test on horseback); Use perform and dodge skill whilst mounted. You can also move at start of round instead of your turn.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Tunnel Rat",
+        "description": "Stealth tests underground By standers get no passive perception test on your stealth underground.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Unshakable",
+        "description": "Cool test to resist Black Powder Panic; You only need to take a cool test to resist broken Condition if you are wounded by black powder weapon.\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    },
+    {
+        "title": "Very resilient",
+        "description": "Permanent +5 to starting Toughness Characteristic.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Very Strong",
+        "description": "Permanent +5 to starting Strength Characteristic.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "War Leader",
+        "description": "Command tests during war; All subordinates add your level in War leader to their SL in a Willpower Test.\nMax selections: Fel Bonus",
+        "tags": "talent tag-Fel"
+    },
+    {
+        "title": "Warrior Born",
+        "description": "Permanent +5 to starting Weapon Skill Characteristic.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "War Wizard",
+        "description": "Cast a spell with Casting number of 5 or less without using your action.\nMax selections: 1",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Waterman",
+        "description": "Sail test Ignore negatives to tests when on a barge.\nMax selections: Ag Bonus",
+        "tags": "talent tag-Ag"
+    },
+    {
+        "title": "Wealthy",
+        "description": "When earning you secure +1 GC per times wealthy is taken.\nMax selections: 0",
+        "tags": "talent tag-none"
+    },
+    {
+        "title": "Well Prepared",
+        "description": "You may pull the trapping required for any situation provided it has Encumbrance of 0.\nMax selections: I Bonus",
+        "tags": "talent tag-I"
+    },
+    {
+        "title": "Witch!",
+        "description": "Add Language (Magick) to any career, lower cost, can Lear spells spending Resilience.\nMax selections: WP Bonus",
+        "tags": "talent tag-WP"
+    }]
+}

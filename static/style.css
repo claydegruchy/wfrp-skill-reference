@@ -85,6 +85,11 @@ nav {
 }
 */
 
+/*.hidden {
+  display: none;
+  visibility: hidden;
+} */
+
 @media (min-width: 900px) {
 
 
@@ -194,3 +199,5 @@ nav {
 .semi-highlight {
     background: Azure;
 }
+
+

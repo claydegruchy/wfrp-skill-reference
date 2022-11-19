@@ -8,7 +8,7 @@
     "start": "echo starting;reload -b & watchify index.js -o bundle.js"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "author": "",
   "license": "ISC",

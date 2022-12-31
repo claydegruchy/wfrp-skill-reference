@@ -306,6 +306,43 @@
     }
   ],
   "talents": [
+
+    
+
+    {
+      "title": "Chanty",
+      "description": "Max: Intelligence Bonus - \nTest: Entertain (Singing). This Talent allows a Character to learn a chanty (see page 67). Whenever a Character buys a new level in the Talent they learn a new song. Page 63, Sea of Claws\n",
+      "tags": "talent tag-Int"
+    },
+
+
+    {
+      "title": "Crew Commander",
+      "description": "Max: Initiative Bonus - \nTest: Ranged Skill Tests when firing a weapon with the Crewed Flaw. A Character with this Talent is practised at managing crews of siege weapons and artillery pieces. The Character may make a Challenging (+0) Leadership Test to help a crew operating a weapon with the Crewed Flaw within earshot. Page 63, Sea of Claws\n",
+      "tags": "talent tag-I"
+    },
+
+
+    {
+      "title": "Master and Commander",
+      "description": "Max: Fellowship Bonus - \nTest: Leadership. You are respected and trusted by your crew. Any appropriate Leadership Test on board your ship or involving your crew gains an SL bonus equal to your levels in Master and Commander. This bonus applies to Crew Tests as well as individual Leadership Tests. Page 63, Sea of Claws\n",
+      "tags": "talent tag-Fel"
+    },
+
+    {
+      "title": "Roughrider",
+      "description": "Max: Agility Bonus - \nTest: Ride Tests when in combat. You are at home in the saddle in even the most difficult of circumstances, and know how to get the best out of your mount during conflict. Assuming you have the Ride skill, you can direct your mount to take an Action, not just a Move, without a Ride Test. Page 141, Up in Arms\n",
+      "tags": "talent tag-Ag"
+    },
+
+    {
+      "title": "Strike to Injure",
+      "description": "Max: 1 - \nTest: You are an expert in striking your enemies most vulnerable areas. When rolling on a Critical Damage table, make two rolls and choose which result you prefer. Page 141, Up in Arms \n",
+      "tags": "talent tag-Ag"
+    },
+
+    
+
     {
       "title": "Accurate Shot",
       "description": "Max: Ballistic Skill Bonus - \nYou are an exceptional shot and know where to shoot an enemy in order to inflict maximum damage. You deal your Accurate Shot level in extra Damage with all ranged weapons.\n",

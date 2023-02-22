@@ -1,0 +1,19 @@
+{
+  "name": "character-sheet-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo starting;reload -b & watchify index.js -o bundle.js"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isotope-layout": "^3.0.6",
+    "tippy.js": "^5.1.2"
+  }
+}
